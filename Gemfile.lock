@@ -133,4 +133,5 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (= 39)
+  jekyll
   json
